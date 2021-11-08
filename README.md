@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning golang
-- 🤡 RMer(Env_installer) try to test models on arm
+- 🤡 RMer(Env_installer)
 - 🙏 Trying not to stay up late
 - ✨ Need to learn more about network
 
