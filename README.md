@@ -3,7 +3,6 @@
 
 
 - 🌱 I’m currently learning golang
-- 🤡 RMer(Env_installer)
 - 🙏 Trying not to stay up late
 - ✨ Need to learn more about network
 
