@@ -10,4 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoshe&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocoshe)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/cocoshe?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=cocoshe&show_icons=true&hide_border=true&count_private=true" width="45%" />
+</a>
