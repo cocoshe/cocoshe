@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning dl framework
 - 🙏 Trying not to stay up late
 - ✨ Need to learn more about network
 
